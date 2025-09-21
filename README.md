@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎭 Meme Generator
 
 A modern, interactive web-based meme generator built with React.js. Create hilarious memes with custom text, drag-and-drop positioning, and professional styling.
@@ -116,3 +117,6 @@ Project Link: [https://github.com/yourusername/meme-generator](https://github.co
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+=======
+# meme-generator
+>>>>>>> 11287836e99befa3848cf26eb7b212449a212b22
